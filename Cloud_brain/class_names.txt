@@ -1,0 +1,7 @@
+BENIGN
+Bot
+Brute_Force
+DoS/DDoS
+PortScan
+Rare_Attacks
+Web_Attack
